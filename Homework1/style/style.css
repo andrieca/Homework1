@@ -1,0 +1,49 @@
+.my{
+    color: brown;
+}
+
+img{
+    width: 300px;
+    height: 150px;
+    padding: auto;
+    
+}
+
+.family{
+    background-color: rgb(190, 248, 229);
+    padding: 10px;
+}
+.family2{
+    border: 3px solid grey;
+    padding: 10px;
+}
+.paths{
+    background-color: hwb(212 9% 0%);
+    padding: 10px;
+}
+.paths2{
+    border: 3px solid grey;
+    padding: 10px;
+}
+.dacha{
+    background-color: rgb(248, 190, 245);
+    padding: 10px;
+}
+.dacha2{
+    border: 3px solid grey;
+    padding: 10px;
+}
+
+.fac{
+    width: 30px;
+    height: 30px;
+    margin-left: 900px;
+}
+.lin{
+    width: 30px;
+    height: 30px;
+    margin-right: 600px;
+}
+.conekt{
+    display: flex;
+}
